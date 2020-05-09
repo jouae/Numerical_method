@@ -13,5 +13,6 @@
 
 整份報告都在PDF檔
 
-而資料的來源如下：
-[1]: url "title" https://github.com/tobydriscoll/fnc-extras
+資料的來源如下：  
+1. SVD程式碼 https://github.com/tobydriscoll/fnc-extras
+2. 學生成績.mat 國立臺灣師範大學數學系
