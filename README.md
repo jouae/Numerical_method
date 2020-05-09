@@ -12,3 +12,5 @@
 
 * 2.應用  
 以SVD來做學生成績之觀察，然後做一個評估。
+
+[id]: url "title"https://github.com/tobydriscoll/fnc-extras
